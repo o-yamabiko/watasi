@@ -35,3 +35,4 @@ gra: ffffa2
 <span data-dur="1.345" data-begin="47.379" id="xmri_0018" markdown="1">とっても</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur=".629" data-begin="48.724" id="xmri_0019" markdown="1">よく</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="3.049" data-begin="49.353" id="xmri_001A" markdown="1">わかるの。</span>
 
 <span data-dur="1.345" data-begin="52.402" id="xmri_001B" markdown="1">せんせい、</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur=".879" data-begin="53.747" id="xmri_001C" markdown="1">もっと</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="2.528" data-begin="54.626" id="xmri_001D" markdown="1">よみたい！</span>
+</p>
