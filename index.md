@@ -10,9 +10,9 @@ gra: ffffa2
 
 <div class="fullw" style="margin-bottom: 20em;" markdown="1">
 
-<span data-dur="1.150" data-begin="0" id="xmri_0000" markdown="1">![絵、説明。赤いワンピースの女の子。「いちねん　こくご」と書かれた教科書を持ち、頭の周りに音符がいくつか浮かんでいます。絵　終わり](media/index/web1ecolor.png){: .hidari}
 
-<span data-dur="1.280" data-begin="1.150" id="xmri_0001" markdown="1">わたし</span>　<span data-dur="1.334" data-begin="2.430" id="xmri_0002" markdown="1">いちねんせいに</span>　<span data-dur="2.604" data-begin="3.764" id="xmri_0003" markdown="1">なったの。</span>
+<span data-dur="1.280" data-begin="1.150" id="xmri_0001" markdown="1">わたし</span>　<span data-dur="1.334" data-begin="2.430" id="xmri_0002" markdown="1">いちねんせいに</span>　<span data-dur="2.604" data-begin="3.764" id="xmri_0003" markdown="1">なったの。</span><span data-dur="1.150" data-begin="0" id="xmri_0000" markdown="1">![絵、説明。赤いワンピースの女の子。「いちねん　こくご」と書かれた教科書を持ち、頭の周りに音符がいくつか浮かんでいます。絵　終わり](media/index/web1ecolor.png){: .hidari}
+
 
 <span data-dur="1.161" data-begin="6.368" id="xmri_0004" markdown="1">がっこう</span>　<span data-dur="1.844" data-begin="7.529" id="xmri_0005" markdown="1">だいすき。</span>
 
