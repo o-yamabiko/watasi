@@ -6,7 +6,7 @@ date: 2023-02-23T00:09:40Z
 iro: ffd048
 ---
 
-<div style="margin-bottom: 5em;" markdown="1">
+<div style="margin-bottom: 10em;" markdown="1">
 
 <span data-dur="1.150" data-begin="0" id="xmri_0000" markdown="1">![絵、説明。赤いワンピースの女の子。「いちねん　こくご」と書かれた教科書を持ち、頭の周りに音符がいくつか浮かんでいます。絵　終わり](media/index/web1ecolor.png){: .hidari}</span>
 
@@ -14,14 +14,14 @@ iro: ffd048
 
 <span data-dur="1.161" data-begin="6.368" id="xmri_0004" markdown="1">がっこう</span>　<span data-dur="1.844" data-begin="7.529" id="xmri_0005" markdown="1">だいすき。</span>
 </div>
-<div style="margin-bottom: 5em;" markdown="1">
+<div style="margin-bottom: 10em;" markdown="1">
 
 <span data-dur="1.150" data-begin="9.373" id="xmri_0006" markdown="1">![絵、説明。本を開いた女の子。文字があちこちに飛んでいって、女の子は困った顔をしています。絵　終わり](media/index/web2-3color.png){: .migi}</span>
 
 <span data-dur="1.139" data-begin="10.523" id="xmri_0007" markdown="1">でも</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="1.985" data-begin="11.662" id="xmri_0008" markdown="1">きょうかしょを</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="2.615" data-begin="13.647" id="xmri_0009" markdown="1">よもうとすると</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="1.356" data-begin="16.262" id="xmri_000A" markdown="1">じが</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="3.526" data-begin="17.618" id="xmri_000B" markdown="1">うごきだしちゃう！</span>
 
 </div>
-<div style="margin-bottom: 5em;" markdown="1">
+<div style="margin-bottom: 10em;" markdown="1">
 
 <span data-dur="1.150" data-begin="21.144" id="xmri_000C" markdown="1">![絵、説明。タブレットに文字や絵が表示され、女の子がそれを見ています。絵　終わり](media/index/web4-5color.png){: .hidari}</span>
 
@@ -30,7 +30,7 @@ iro: ffd048
 <span data-dur="1.812" data-begin="30.594" id="xmri_0011" markdown="1">きいろに　なった</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="2.192" data-begin="32.406" id="xmri_0012" markdown="1">もじの　ところを</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="1.660" data-begin="34.598" id="xmri_0013" markdown="1">タブレットが</span><span class="infty_silent_wide_space"> &nbsp;</span><span data-dur="3.396" data-begin="36.258" id="xmri_0014" markdown="1">よんでくれます。</span>
 
 </div>
-<div style="margin-bottom: 5em;" markdown="1">
+<div style="margin-bottom: 10em;" markdown="1">
 
 <span data-dur="1.150" data-begin="39.654" id="xmri_0015" markdown="1">![絵、説明。女の子がタブレットを抱えてこちらに見せ、話している様子。絵　終わり](media/index/web6-7color.png){: .migi}</span>
 
