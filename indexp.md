@@ -6,7 +6,7 @@ date: 2023-02-23T00:09:40Z
 iro: ffd048
 ---
 
-<div class="fullw">
+<div class="fullw" style="margin-bottom: 10em;">
 
 <span data-dur="1.150" data-begin="0" id="xmri_0000" markdown="1">![絵、説明。赤いワンピースの女の子。「いちねん　こくご」と書かれた教科書を持ち、頭の周りに音符がいくつか浮かんでいます。絵　終わり](media/index/web1ecolor.png){: .hidari}
 
